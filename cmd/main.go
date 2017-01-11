@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"hbsis.com.br/websocket/server"
+	"github.com/williamaldevino/websocket/server"
 )
 
 func main() {
